@@ -1,9 +1,12 @@
 # William An
 
+![Profile Views](https://komarev.com/ghpvc/?username=William-An)
+
 EE & CS student at Purdue University. Interested in 
 - Hardware verification and design
 - Machine learning
 - Backend development
+
 
 ## GitHub Stats
 ![William An Stats](https://github-readme-stats.vercel.app/api?username=William-An&count_private=true&show_icons=true&theme=radical)  
