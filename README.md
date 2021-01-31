@@ -4,6 +4,7 @@
 
 EE & CS student at Purdue University. Interested in 
 - Hardware verification and design
+- Operating System design
 - Machine learning
 - Backend development
 
