@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=William-An)
 
-EE & CS student at Purdue University. Interested in 
+Graduate ECE student at Purdue University. Interested in 
+- Simulator Development
 - Hardware verification and design
 - Operating System design
 - Machine learning
