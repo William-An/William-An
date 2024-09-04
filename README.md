@@ -7,7 +7,7 @@ Graduate ECE student at Purdue University. Interested in
 - Hardware verification and design
 - Operating System design
 - Machine learning
-- Backend development
+- Web backend development
 
 
 ## GitHub Stats
