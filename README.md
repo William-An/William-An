@@ -3,11 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=William-An)
 
 PhD ECE student at Purdue University. Interested in 
-- Simulator Development
-- Hardware verification and design
-- Operating System design
-- Machine learning
-- Web backend development
+- GPU architecture research
+- Simulator development
+- Machine Learning
 
 
 ## GitHub Stats
